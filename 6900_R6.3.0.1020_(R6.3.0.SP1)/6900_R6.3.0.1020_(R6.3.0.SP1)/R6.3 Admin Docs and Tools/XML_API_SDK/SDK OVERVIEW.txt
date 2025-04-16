@@ -1,0 +1,1 @@
+Please note that the XML API SDK is made available as example material only. Mitle updates XML guide documentation not the example php applications and classes.
